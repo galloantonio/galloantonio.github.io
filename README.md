@@ -5,5 +5,6 @@ You can see it on https://galloantonio.github.io/
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-## Thanks to my friend Pierluigi Greto
+## Thanks to my friend Pierluigi Gret
+@PierluigiGreto
 https://pierluigigreto.github.io/
